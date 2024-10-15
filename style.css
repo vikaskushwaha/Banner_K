@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Frame 21074   parent div  */
+.mainbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 520px;
+    width: 1312px;
+    background: #14171F;
+    border: solid black;
+    border-radius: 10px;
+    gap: 40px; 
+    padding: 40px;
+    
+}
+
+/* Frame 21071   */
+.innerbox1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 440px;
+    width: 606px;
+    background-color: #292C33;
+    /* border: solid black; */
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/* Frame 21086   */
+.innerbox1-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 566px;
+    background-color: lavenderblush;
+    border: solid black;
+    border-radius: 10px;
+    gap:40px;
+}
+/* Frame 21069 */
+.innerbox1-1-a{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 280px;
+    width: 282px;
+    background-color: #962222;
+    border: solid black;
+    /* border-radius: 10px; */
+    gap: 20px;
+    /* padding-top: 4px;
+    padding-right: 20px;
+    padding-bottom: 4px;
+    padding-left: 20px; */
+
+}
+/* Frame 21083 */
+.innerbox1-1-a-i{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 28px;
+    width: 148px;
+    background-color: #FDE68A;
+    border: solid black;
+    border-radius: 6px;
+    padding-top: 4px;
+    padding-right: 20px;
+    padding-bottom: 4px;
+    padding-left: 20px;
+    
+}
+
+
+/* Group 12728 */
+.innerbox1-1-a-i-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+    height: 20px;
+    width: 20px;
+    background-color: #D97706;
+    border: solid black;
+}
+
+/* Frame 21201 */
+.innerbox21201{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 212px;
+    width: 282px;
+    border: solid black;
+    /* border-radius: 6px; */
+    
+}
+
+
+/* Frame 21072 */
+.innerbox1-1-b{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 248.18px;
+    background-color: #f0f0f0;
+    border: solid black;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Frame 20988    */
+.innerbox2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    width: 50vw;
+    background-color: #f0f0f0;
+    /* border: solid black; */
+    border-radius: 10px;
+    /* margin-top: 40px; */
+    /* margin-right: 40px; */
+    /* margin-bottom: 40px; */
+}
